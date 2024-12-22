@@ -29,14 +29,14 @@ Welcome to my portfolio project repository! This project showcases my skills, pr
 * [Framework/Libraries]: Specify any additional frameworks or libraries used.
 
 ## Setup
-Clone the repository. bash git clone 
+Clone the repository. bash git clone https://github.com/kavanasagar/My-portfolio
 
 Open protfolio.html in your preferred web browser.
 
 ## Usage
 Customize the content in the HTML files to reflect your personal information, projects, and skills. Replace images and update links accordingly. Feel free to modify the styling in the CSS files to suit your preferences.
 
-Usage
+## Usage
 Customize the content in the HTML files to reflect your personal information, projects, and skills. Replace images and update links accordingly. Feel free to modify the styling in the CSS files to suit your preferences.
 
 
