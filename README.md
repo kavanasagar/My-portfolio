@@ -21,7 +21,7 @@ Welcome to my portfolio project repository! This project showcases my skills, pr
 * Skills Section: Lists my technical skills and proficiencies.
 * About Me: Provides a brief overview of my background, interests, and goals.
 * Contact Information: Easily accessible for potential employers or collaborators.
-* 
+
 ## Technologies Used
 
 * HTML5: Structure and content.
@@ -29,10 +29,12 @@ Welcome to my portfolio project repository! This project showcases my skills, pr
 * [Framework/Libraries]: Specify any additional frameworks or libraries used.
 
 ## Setup
-
 Clone the repository. bash git clone 
 
 Open protfolio.html in your preferred web browser.
+
+## Usage
+Customize the content in the HTML files to reflect your personal information, projects, and skills. Replace images and update links accordingly. Feel free to modify the styling in the CSS files to suit your preferences.
 
 Usage
 Customize the content in the HTML files to reflect your personal information, projects, and skills. Replace images and update links accordingly. Feel free to modify the styling in the CSS files to suit your preferences.
